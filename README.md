@@ -2,6 +2,8 @@
 
 En este repositorio se encuentran los packages de ROS diseñados para el control sin contacto del brazo robótico AMOR a través de un dispositivo Leap Motion. Es necesario tener instalado ROS y, en concreto, se utilizó la distribución kinetic (http://wiki.ros.org/kinetic/Installation).
 
+Para instalar la parte de Leap Motion ver https://github.com/qqfly/leap_motion/
+
 # Instalación
 
 El diseño está basado en ROS así que hay que crear primero un espacion de trabajo catkin (para mas información http://wiki.ros.org/catkin). 
@@ -36,8 +38,6 @@ En total hay 3 ejecutables, 2 en el package gesture y 1 en el package amorpos. P
 
 2. catkin_make
 
-#Para habilitar el uso de los ejecutables
-
-3. source devel/setup.bash   
+3. source devel/setup.bash        #Para habilitar el uso de los ejecutables
 
 4. rosrun [package] [ejecutable]
