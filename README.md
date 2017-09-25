@@ -36,8 +36,10 @@ En total hay 3 ejecutables, 2 en el package gesture y 1 en el package amorpos. P
 
 1. cd ~/ubicacionX/catkin_ws
 
-2. catkin_make
+2. catkin_make #Para compilar e instalar el espacio catkin
 
 3. source devel/setup.bash        #Para habilitar el uso de los ejecutables
 
-4. rosrun [package] [ejecutable]
+4. rosrun [package] [ejecutable] #para ejecutar
+
+Si se quieres ejecutar varios elementos a la vez sólo hay que abrir otra terminal y lanzar el último comando con el package y ejecutable correspondiente.
