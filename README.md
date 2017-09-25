@@ -2,7 +2,7 @@
 
 En este repositorio se encuentran los packages de ROS diseñados para el control sin contacto del brazo robótico AMOR a través de un dispositivo Leap Motion. Es necesario tener instalado ROS y, en concreto, se utilizó la distribución kinetic (http://wiki.ros.org/kinetic/Installation).
 
-Para instalar la parte de Leap Motion ver https://github.com/qqfly/leap_motion/
+Para instalar la parte de Leap Motion ver http://wiki.ros.org/leap_motion
 
 # Instalación
 
