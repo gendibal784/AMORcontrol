@@ -1,10 +1,21 @@
 # AMORcontrol
 
-En este repositorio se encuentran los packages de ROS diseñados para el control sin contacto del brazo robótico AMOR a través de un dispositivo Leap Motion. Es necesario tener instalado ROS y, en concreto, se utilizó la distribución kinetic (http://wiki.ros.org/kinetic/Installation).
+En este repositorio se encuentran los packages de ROS diseñados para el control sin contacto del brazo robótico AMOR a través de un dispositivo Leap Motion. 
+# Requisitos
 
-Para instalar la parte de Leap Motion ver http://wiki.ros.org/leap_motion
+-Leap Motion https://www.leapmotion.com/
+
+-Brazo robótico AMOR http://www.amorrobot.com/
+
+-Ordenador con Ubuntu 12 o más
+
+-Es necesario instalar ROS y, en concreto, se utilizó la distribución kinetic (http://wiki.ros.org/kinetic/Installation).
+
+-Para el programa de control de AMOR hay que instalar YARP http://www.yarp.it/index.html
 
 # Instalación
+
+Para instalar la parte de Leap Motion visitar http://wiki.ros.org/leap_motion
 
 El diseño está basado en ROS así que hay que crear primero un espacion de trabajo catkin (para mas información http://wiki.ros.org/catkin). 
 
