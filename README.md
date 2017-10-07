@@ -11,7 +11,7 @@ En este repositorio se encuentran los packages de ROS diseñados para el control
 
 -Es necesario instalar ROS y, en concreto, se utilizó la distribución kinetic (http://wiki.ros.org/kinetic/Installation).
 
--Para el programa de control de AMOR hay que instalar YARP http://www.yarp.it/index.html
+-Para el programa de control de AMOR hay que instalar YARP http://www.yarp.it/index.html y los códigos modificados se en cuentran en la carpeta codigosAMOR
 
 # Instalación
 
